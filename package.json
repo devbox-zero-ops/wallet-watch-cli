@@ -1,0 +1,29 @@
+{
+  "name": "wallet-watch-cli",
+  "version": "1.0.0",
+  "description": "Zero-dependency multi-chain USDC & native balance watcher CLI for EVM (Base, Ethereum, Arbitrum, Optimism, Polygon) and Solana via public RPCs.",
+  "type": "module",
+  "bin": {
+    "wallet-watch": "./index.mjs"
+  },
+  "scripts": {
+    "test": "node --test test.mjs"
+  },
+  "keywords": [
+    "usdc",
+    "crypto",
+    "wallet",
+    "watcher",
+    "base",
+    "solana",
+    "evm",
+    "rpc",
+    "webhook",
+    "cli",
+    "ai-agent"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
