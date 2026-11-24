@@ -28,3 +28,9 @@ node index.mjs --evm 0xYourEvmAddress --watch 60 --webhook https://discord.com/a
 ## Support Open Tooling (USDT)
 - **Base / EVM USDT**: `0xe4c8739bCC488bD98978CE976511735e0499d432`
 - **Solana USDT / SOL**: `89XqpaJDKajhYFs4Vmex853yxoEU7HqwnMAPtTDpgZgG`
+
+## Related Open-Source Tools & White-Label Bundle
+
+- **All 8 Zero-Tracking Tools & 10 Cost Calculators**: [XiaheAI Hub](https://devbox-zero-ops.github.io/xiaheai-hub/)
+- **Crypto Funding Arbitrage & Polymarket Scanner CLI (Python)**: [quant-radar-cli](https://github.com/devbox-zero-ops/quant-radar-cli)
+- **Full 8-App White-Label Self-Hosting Bundle (5 USDT / ¥29)**: [XiaheAI ZeroSuite Pro](https://devbox-zero-ops.github.io/xiaheai-hub/pro.html)
